@@ -105,7 +105,7 @@ Segmentação de clientes
 ## 🚀 Como Executar o Projeto
 * Criar o banco de dados no PostgreSQL
 * Executar scripts de criação de tabelas
-* Importar os dados via CSV
+* Importar os dados via CSV (https://drive.google.com/drive/folders/1zOKUyBcna5OOmVZeyQhBCdsOSBEZwgdN?usp=sharing)
 * Executar os scripts de análise SQL
 
 ## 📈 Próximos Passos
